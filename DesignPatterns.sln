@@ -1,6 +1,6 @@
 ﻿
-Microsoft Visual Studio Solution File, Format Version 10.00
-# Visual Studio 2008
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignPatterns.DataAccess", "DesignPatterns.DataAccess\DesignPatterns.DataAccess.csproj", "{F903A1B0-4181-41DB-91F1-64D205BE8CFF}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignPatterns.Domain", "DesignPatterns.Domain\DesignPatterns.Domain.csproj", "{556D9C0A-60A2-485C-8B41-6D548E83857C}"
